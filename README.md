@@ -1,4 +1,4 @@
-![alt text](https://github.com/Cobweb-Development/clibc-ng/blob/main/logo.png)\
+![alt text](https://github.com/Cobweb-Development/clibc-ng/blob/main/logo.png)
 
 # Clibc-ng
 Clibc-ng is a new generation libc extension/wrapper written in Modern C.
