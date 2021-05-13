@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="logo.png">
+  <img width="460" height="240" src="logo.png">
 </p>
 
 # Clibc-ng
