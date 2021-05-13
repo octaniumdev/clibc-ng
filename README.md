@@ -18,12 +18,12 @@ jemalloc memory allocation for better faster allocation and helps with memory fr
 
 ### Installation
 Frst, you clone the repo\
-`git clone https://github.com/Cobweb-Development/clibc-ng`\
+```git clone https://github.com/Cobweb-Development/clibc-ng```\
 Then go into the repo\
-`cd clibc-ng`\
+```cd clibc-ng```\
 Then run the install script which will install the clibc headers\
 in the specified install destination from the Makefile\
-`./install.sh`
+```./install.sh```
 
 ### Documentation
 coming soon...
