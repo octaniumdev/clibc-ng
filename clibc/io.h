@@ -16,4 +16,6 @@ extern int sprintf (char *__restrict __s,
     FILE*: fprintf                  \
 )(x, __VA_ARGS__);
 
+
+
 #endif /* CCIO_H_ */
