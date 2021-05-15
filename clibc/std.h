@@ -5,6 +5,7 @@
 
 typedef const char byte; /* byte buff[100] = .... */
 typedef const char* str;
+typedef unsigned int uint;
 
 typedef struct _iobuf {
     char*   _ptr;
