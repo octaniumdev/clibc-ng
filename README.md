@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400" height="180" src="logo.png">
+</p>
+
 # Clibc-ng
 A new generation libc extension/wrapper written in Modern C.
 
