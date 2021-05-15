@@ -17,9 +17,4 @@ extern int sprintf (char *__restrict __s, str __restrict __format, ...);
     FILE*: fprintf                  \
 )(x, __VA_ARGS__);
 
-str io_read(size_t size, FILE* stream) {
-    byte data[size+1];
-    return fgets(data, size, stream);
-}
-
 #endif /* CCIO_H_ */
