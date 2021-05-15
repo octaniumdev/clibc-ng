@@ -3,6 +3,7 @@
 #define dynarray(T) T*
 #define arr_size(A) (sizeof(A) / sizeof(A[0]))
 
+typedef const char byte; /* byte buff[100] = .... */
 typedef const char* str;
 
 typedef struct _iobuf {
