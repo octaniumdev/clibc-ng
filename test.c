@@ -12,5 +12,5 @@ int main() {
 
     // write test
     io_write(stdout, "write to file !\n");        /* write to file */
-    io_write("%d %d\n%s\n", 23, 44, "string !");  /* formated write */
+    io_write("%d %d\n%s\n", 23, 44, "string !");  /* formatted write */
 }
